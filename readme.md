@@ -11,4 +11,3 @@ PASSAGGI:
 3- chiedere il colore preferito
 4- sommare le tre risposte ricevute 
 5- aggiungere un 21 di default alla parte finale della somma 
-s
